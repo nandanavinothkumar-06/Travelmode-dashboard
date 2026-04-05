@@ -1,0 +1,4 @@
+This project involves the design and development of an interactive dashboard using Tableau to analyze a travel mode dataset. The dashboard provides insights into user preferences across different travel modes (air, bus, car, and train) by examining key factors such as travel cost, travel time, and waiting time.
+Various visualizations, including bar charts, scatter plots, and histograms, were used to identify patterns, relationships, and distributions within the data. Interactive features such as filters and tooltips enhance user exploration and enable dynamic analysis.
+The dashboard helps in understanding how cost and time influence travel choices, making it useful for data-driven decision-making.
+<img width="1919" height="1042" alt="Screenshot 2026-04-05 200526" src="https://github.com/user-attachments/assets/95340589-5fe5-4f80-8e5e-105de2cd8fe9" />
